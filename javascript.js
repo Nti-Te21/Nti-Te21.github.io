@@ -54,3 +54,21 @@ function init() {
     footer.innerHTML = '<p>&copy; 2024 MyWebsite. All rights reserved.</p>';
 }
 init();
+/*
+function createCourceCard() {
+    cardsList = [[1, 'Kurs 1', 'Beskrivning av kurs 1', 'Bild av kurs 1', 'Pris för kurs 1'], [2, 'Kurs 2', 'Beskrivning av kurs 2', 'Bild av kurs 2', 'Pris för kurs 2'], [3, 'Kurs 3', 'Beskrivning av kurs 3', 'Bild av kurs 3', 'Pris för kurs 3';
+    for (card in cardsList) {
+        const card = document.createElement('div');
+        
+
+
+    }
+    for (let i = 0; i < cardsList.length; i++) {
+        const card = document.createElement('div');
+        card.classList.add('card');
+        card.innerHTML = `
+
+        `;
+    }
+}
+*/

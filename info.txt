@@ -1,0 +1,8 @@
+listor med alla kurser gör med for loop cards bootstrap coolt heja hamput tack för hjälp java script lets go!
+
+
+Kursutbud: 1. "Python for Beginners" - Lär dig grunderna i Python-programmering. - Innehåll: Kodning,
+            variabler, loopar, funktioner. - Pris: 39 kr/månad för grundkursen. 2. "Intro to HTML+CSS" - Introduktion
+            till webbutveckling med HTML och CSS. - Innehåll: Markup, styling, responsiv design. - Pris: 49 kr/månad för
+            introkursen. 3. "Advanced Web Design" - Avancerade tekniker för webbdesign. - Innehåll: JavaScript,
+            frameworks, UX-design. - Pris: 99 kr/månad för avancerad kurs.
