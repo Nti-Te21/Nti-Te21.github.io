@@ -6,3 +6,9 @@ Kursutbud: 1. "Python for Beginners" - Lär dig grunderna i Python-programmering
             till webbutveckling med HTML och CSS. - Innehåll: Markup, styling, responsiv design. - Pris: 49 kr/månad för
             introkursen. 3. "Advanced Web Design" - Avancerade tekniker för webbdesign. - Innehåll: JavaScript,
             frameworks, UX-design. - Pris: 99 kr/månad för avancerad kurs.
+
+
+Borttaget:            
+       - Kundrecensioner som visar på våra framgångsrika elever och deras
+            resultat. - Exempel på hur du kommer att lära och utvecklas på plattformen.
+            

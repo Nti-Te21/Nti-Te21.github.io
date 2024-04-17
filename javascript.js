@@ -4,7 +4,7 @@ function init() {
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
             <img class="navbar-brand logo" src="Firefly A logo for a programing teaching company 29873.jpg"></img>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+            <button class="navbar-toggler" type="button" data-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -18,10 +18,7 @@ function init() {
                         <a class="nav-link active" href="kurser.html">Kurser</a>
                     </li>   
                     <li class="nav-item">
-                        <a class="nav-link active" href="priser.html">Priser</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link active" href="exempel.html">Exempel</a>
+                        <a class="nav-link active" href="Medlemskap.html">Medlemskap</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link active" href="recensioner.html">Recensioner</a>
@@ -35,10 +32,7 @@ function init() {
                                 <a class="nav-link active" href="kurser.html">Kurser</a>
                             </li>
                             <li class="dropdown-item">
-                                <a class="nav-link active" href="priser.html">Priser</a>
-                            </li>
-                            <li class="dropdown-item">
-                                <a class="nav-link active" href="exempel.html">Exempel</a>
+                                <a class="nav-link active" href="Medlemskap.html">Medlemskap</a>
                             </li>
                             <li class="dropdown-item">
                                 <a class="nav-link active" href="recensioner.html">Recensioner</a>
