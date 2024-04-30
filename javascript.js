@@ -1,8 +1,8 @@
 function init() {
     const nav = document.querySelector('nav');
     nav.innerHTML = `
-    <nav class="navbar navbar-expand-lg bg-body-tertiary">
-        <div class="container-fluid">
+    <nav class="navbar nav-background navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid nav-background">
             <img class="navbar-brand logo header-img" src="Firefly A logo for a programing teaching company 29873.jpg" alt = "logo.img"></img>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"

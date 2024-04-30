@@ -1,5 +1,7 @@
 header {
     font-size: large;
+    background-color: #110edd;
+
 }
 
 
@@ -11,6 +13,8 @@ header {
 footer {
     position: relative;
     bottom: 0;
+    background-color: #110edd;
+
 }
 
 .card-img {
@@ -19,4 +23,25 @@ footer {
 
 .card-margin {
     margin: 10px;
+}
+
+
+.nav-background {
+    background-color: #110edd;
+    color: rgb(255, 119, 0);
+
+}
+
+main {
+    background-color: #0000ff;
+    color: #006760;
+}
+
+p {
+    color: #991C00
+}
+
+html {
+    background-color: #0000ff;
+    color: #006760;
 }
