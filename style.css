@@ -1,6 +1,6 @@
 header {
     font-size: large;
-    background-color: #110edd;
+    background-color: #0B5D8F;
 
 }
 
@@ -13,7 +13,7 @@ header {
 footer {
     position: relative;
     bottom: 0;
-    background-color: #110edd;
+    background-color: #0B5D8F;
 
 }
 
@@ -27,21 +27,42 @@ footer {
 
 
 .nav-background {
-    background-color: #110edd;
+    background-color: #0B5D8F;
     color: rgb(255, 119, 0);
 
 }
 
 main {
-    background-color: #0000ff;
-    color: #006760;
+    background-color: #0B5D8F;
+    color: #4eaa52;
+}
+
+.card-back {
+    background-color: #4eaa52;
+    color: #e37221;
+}
+
+.blue-text {
+    color: #0B5D8F;
 }
 
 p {
-    color: #991C00
+    color: #e37221
+}
+
+li {
+    color: #D2681C
+}
+
+h2 {
+    color: #8BD78F
 }
 
 html {
-    background-color: #0000ff;
-    color: #006760;
+    background-color: #0B5D8F;
+    color: #8BD78F;
+
 }
+
+/*
+*/
