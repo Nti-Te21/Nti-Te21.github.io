@@ -1,3 +1,7 @@
+* {
+    color: #ffffff !important;
+}
+
 header {
     font-size: large;
     background-color: #0B5D8F;
@@ -33,7 +37,7 @@ footer {
 
 main {
     background-color: #0B5D8F;
-    color: #4eaa52;
+    color: #4bf053;
 }
 
 .card-back {
@@ -70,6 +74,12 @@ html {
 a {
     color: #4bf053;
 }
+
+nav {
+    color: #ffffff;
+}
+
+
 
 /*
 */
