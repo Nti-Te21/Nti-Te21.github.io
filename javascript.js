@@ -15,7 +15,7 @@ function init() {
                         <a class="nav-link active white-text" onmouseover="style='text-decoration:underline'" onmouseout="style='text-decoration:none'" aria-current="page" href="index.html">Startsida</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active white-text" onmouseover="style='text-decoration:underline'" onmouseout="style='text-decoration:none'" href="kurser.html">Kurser test ny klass</a>
+                        <a class="nav-link active white-text" onmouseover="style='text-decoration:underline'" onmouseout="style='text-decoration:none'" href="kurser.html">Kurser</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link active white-text" onmouseover="style='text-decoration:underline'" onmouseout="style='text-decoration:none'" href="Medlemskap.html">Medlemskap</a>
