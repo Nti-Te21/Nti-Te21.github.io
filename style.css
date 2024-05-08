@@ -28,8 +28,7 @@ footer {
 
 .nav-background {
     background-color: #0B5D8F;
-    color: rgb(255, 119, 0);
-
+    color: #4bf053
 }
 
 main {
@@ -39,29 +38,37 @@ main {
 
 .card-back {
     background-color: #4eaa52;
-    color: #e37221;
+    color: #ffffff;
 }
 
 .blue-text {
     color: #0B5D8F;
 }
 
+.white-text {
+    color: #ffffff;
+}
+
 p {
-    color: #e37221
+    color: #ffffff
 }
 
 li {
-    color: #D2681C
+    color: #ffffff
 }
 
 h2 {
-    color: #8BD78F
+    color: #4bf053
 }
 
 html {
     background-color: #0B5D8F;
-    color: #8BD78F;
+    color: #4bf053;
 
+}
+
+a {
+    color: #4bf053;
 }
 
 /*
