@@ -25,6 +25,10 @@ footer {
     height: 100px;
 }
 
+.card-img-with {
+    width: 130px;
+}
+
 .card-margin {
     margin: 10px;
 }
