@@ -79,6 +79,11 @@ nav {
     color: #ffffff;
 }
 
+.navbar-nav .nav-link.nav_animation:hover {
+    color: #4bf053 !important;
+    text-decoration: underline solid;
+}
+
 
 
 /*

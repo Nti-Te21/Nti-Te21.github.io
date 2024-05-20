@@ -12,30 +12,30 @@ function init() {
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link active white-text" onmouseover="style='text-decoration:underline'" onmouseout="style='text-decoration:none'" aria-current="page" href="index.html">Startsida</a>
+                        <a class="nav-link active white-text nav_animation" aria-current="page" href="index.html">Startsida</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active white-text" onmouseover="style='text-decoration:underline'" onmouseout="style='text-decoration:none'" href="kurser.html">Kurser</a>
+                        <a class="nav-link active white-text nav_animation" href="kurser.html">Kurser</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active white-text" onmouseover="style='text-decoration:underline'" onmouseout="style='text-decoration:none'" href="Medlemskap.html">Medlemskap</a>
+                        <a class="nav-link active white-text nav_animation" href="Medlemskap.html">Medlemskap</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active white-text" onmouseover="style='text-decoration:underline'" onmouseout="style='text-decoration:none'" href="recensioner.html">Recensioner</a>
+                        <a class="nav-link active white-text nav_animation" href="recensioner.html">Recensioner</a>
                     </li>
                     <li class="nav-item dropdown">
                         <ul class="dropdown-menu">
                             <li class="dropdown-time">
-                                <a class="nav-link active white-text" onmouseover="style='text-decoration:underline'" onmouseout="style='text-decoration:none'" aria-current="page" href="index.html"><p>Startsida</p></a>
+                                <a class="nav-link active white-text nav_animation" href="index.html"><p>Startsida</p></a>
                             </li>
                             <li class="dropdown-item">
-                                <a class="nav-link active white-text" onmouseover="style='text-decoration:underline'" onmouseout="style='text-decoration:none'" href="kurser.html"><p>Kurser</p></a>
+                                <a class="nav-link active white-text nav_animation" href="kurser.html"><p>Kurser</p></a>
                             </li>
                             <li class="dropdown-item white-text">
-                                <a class="nav-link active" onmouseover="style='text-decoration:underline'" onmouseout="style='text-decoration:none'" href="Medlemskap.html"><p>Medlemskap</p></a>
+                                <a class="nav-link active nav_animation" href="Medlemskap.html"><p>Medlemskap</p></a>
                             </li>
                             <li class="dropdown-item white-text">
-                                <a class="nav-link active" onmouseover="style='text-decoration:underline'" onmouseout="style='text-decoration:none'" href="recensioner.html"><p>Recensioner</p></a>
+                                <a class="nav-link active nav_animation" href="recensioner.html"><p>Recensioner</p></a>
                             </li>
                         </ul>
                     </li>
