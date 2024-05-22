@@ -1,5 +1,9 @@
 * {
     color: #ffffff !important;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
 }
 
 header {
@@ -35,6 +39,7 @@ footer {
 
 
 .nav-background {
+    margin: 0px;
     background-color: #0B5D8F;
     color: #4bf053
 }
@@ -88,7 +93,18 @@ nav {
     text-decoration: underline solid;
 }
 
+main {
+    min-height: 100vh;
+    background-color: #0B5D8F;
+}
 
+.text-margin {
+    margin-left: 25px;
+}
+
+.top-margin {
+    margin-top: 10px !important;
+}
 
 /*
 */
